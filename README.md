@@ -1,2 +1,2 @@
 # PapaPythonScraper
-### *This is a craglist clone app.*
+### *This is a craglist clone.*
